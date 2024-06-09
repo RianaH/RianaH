@@ -13,9 +13,9 @@ Hi, I'm Riana Hoagland, a machine learning and data science enthusiast with a st
 
 ## Technical Skills
 
-**Programming Languages:** Python, MATLAB, R, SQL, C (some exposure), Java (some exposure)
+**Programming Languages:** Python, MATLAB, R, SQL, C (some exposure), Java (some exposure), RobotC
 
-**Tools and Libraries:** NumPy, Pandas, PyTorch, TensorFlow, Keras, Scikit-learn, SciPy, Seaborn, Matplotlib, PostgreSQL, Jupyter Notebooks, Bash scripting
+**Tools and Libraries:** NumPy, Pandas, PyTorch, TensorFlow, Keras, Scikit-learn, SciPy, Seaborn, Matplotlib, PyG, DGL, scikit-image, JAX, Google Colab, Jupyter Notebooks, PostgreSQL, psql, Bash scripting, SSH.
 
 ## Contact Me
 
